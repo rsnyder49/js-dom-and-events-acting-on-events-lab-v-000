@@ -27,5 +27,8 @@ function addNewLiOnClick() {
   });
 }
 
+function clearEmployeeListOnLinkClick() {
+  
+}
 
 
