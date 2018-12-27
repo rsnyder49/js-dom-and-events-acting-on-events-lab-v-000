@@ -17,6 +17,8 @@ function addNewElementAsLi() {
   list.append(ele);
 }
 
+let input = document.querySelector('input');
+
 function addNewLiOnClick() {
   let submit = document.querySelector("input[type= 'submit'");
   submit.addEventListener('click', function(e) {
