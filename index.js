@@ -11,7 +11,7 @@ function retrieveEmployeeInformation() {
 }
 
 function addNewElementAsLi() {
-  ele = document.createElement();
+  let ele = document.createElement();
   ele.innerHTML = retrieveEmployeeInformation();
-  
+  let list = document.querySelector(''
 }
