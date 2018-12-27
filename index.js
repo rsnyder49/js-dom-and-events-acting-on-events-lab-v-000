@@ -16,3 +16,7 @@ function addNewElementAsLi() {
   let list = document.querySelector('.employee-list');
   list.append(ele);
 }
+
+function addNewLiOnClick() {
+  
+}
